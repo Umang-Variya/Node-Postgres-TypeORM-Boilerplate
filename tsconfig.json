@@ -1,0 +1,19 @@
+{
+   "compilerOptions": {
+     "sourceMap": true,
+     "outDir": "./build",
+     "strict": false,
+     "lib": [
+        "es5",
+         "es6",
+         "es2021", "dom"
+     ],
+     "esModuleInterop": true,
+     "module": "commonjs",
+     "experimentalDecorators": true,
+     "emitDecoratorMetadata": true,
+     "target": "esnext",
+     "moduleResolution": "Node",
+     "allowJs": false
+   }
+}
